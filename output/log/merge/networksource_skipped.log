@@ -29,7 +29,6 @@ FTV One (720p) [Not 24/7],http://seb.sason.top/ptv/ftv.php?id=dy,重复URL
 FTV Taiwan (720p) [Not 24/7],http://seb.sason.top/ptv/ftv.php?id=tw,重复URL
 Good 2 (720p),https://live.streamingfast.net/osmflivech2.m3u8,重复URL
 Good TV (Taiwan) (720p) [Not 24/7],https://live.streamingfast.net/osmflivech1.m3u8,重复URL
-Guangzhou TV,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8,重复URL
 Hunan TV (2160p),http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8,重复URL
 Indigenous TV (720p),http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8,重复URL
 MOMO TV (1080p),http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8,重复URL
@@ -85,7 +84,6 @@ CCTV8K,http://192.151.150.154/live/cctv8k.m3u8,重复URL
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8,重复URL
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8,重复URL
 深圳卫视,http://gmxw.7766.org:808/hls/45/index.m3u8,重复URL
-山西卫视,https://live.264788.xyz/channel/shanxiweishi?streamid=eeb7d60ca6e0db131ea7a092a3cd28d2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk,重复URL
 山西卫视,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8,重复URL
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4,重复URL
 延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8,重复URL
@@ -95,13 +93,11 @@ CCTV8K,http://192.151.150.154/live/cctv8k.m3u8,重复URL
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd,重复URL
 江西卫视,http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0,重复URL
 河北卫视,https://event.pull.hebtv.com/live/live101.m3u8,重复URL
-河南卫视,http://111.59.139.82:11888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0,重复URL
 甘肃卫视,http://218.13.170.98:9901/tsfile/live/0141_1.m3u8,重复URL
 西藏卫视,http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0,重复URL
 辽宁卫视,http://61.136.172.236:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0,重复URL
 安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8,重复URL
 黑龙江卫视,http://61.136.172.236:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0,重复URL
-内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=3e7340acf8869ac1c7dad1bb836dcd35&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk,重复URL
 内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8,重复URL
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8,重复URL
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8,重复URL
@@ -408,6 +404,7 @@ VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlis
 仁寿综合,https://play.scrstv.com.cn/DT/live.m3u8?auth_key=60001724663204-0-0-c1cc4ded9841ac34f63cdbd3aec647ef,重复URL
 名山综合,https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8,重复URL
 夹江新闻综合,http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8?zsicd,重复URL
+广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd,重复URL
 广安公共,http://live1.gatv.com.cn:85/live/GGPD.m3u8,重复URL
 广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8,重复URL
 康巴卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8,重复URL
@@ -651,6 +648,7 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8,
 浙江卫视,http://107.150.60.122/live/zjwshd.m3u8,重复URL
 浙江卫视,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub,重复URL
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8,重复URL
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8,重复URL
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8,重复URL
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8,重复URL
 湖南卫视,http://107.150.60.122/live/hnwshd.m3u8,重复URL
@@ -992,8 +990,6 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8,
 福州生活,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8,重复URL
 福建新闻,http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8,重复URL
 福建经济,http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8,重复URL
-福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=599c11c8b284751261b165f4d5765b36&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk,重复URL
-福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=221239fcf3c7edb274f2f0760fe47f96&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk,重复URL
 福建海峡卫视,https://m.italkbbtv.com/live/6a30f74820a80832dc74e2c7,重复URL
 福建海峡卫视,http://r.jdshipin.com/WtYt3,重复URL
 海南新闻,http://ls.qingting.fm/live/1861.m3u8,重复URL
@@ -1033,6 +1029,7 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8,
 永昌综合,https://play.kankanlive.com/live/1652755738635915.m3u8,重复URL
 渭源新闻,http://play.kankanlive.com/live/1720408280309109.m3u8,重复URL
 白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8,重复URL
+西峰综合,https://play.kankanlive.com/live/1683944827526991.m3u8,重复URL
 伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8,重复URL
 伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd,重复URL
 伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8,重复URL
