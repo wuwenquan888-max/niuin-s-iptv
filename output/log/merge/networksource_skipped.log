@@ -146,12 +146,8 @@ VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlis
 易中天品三国,https://live.ottiptv.cc/yy/1354931498,重复URL
 航拍中国第二季,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8,重复URL
 梨园,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549,重复URL
-动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-1.ctv,重复URL
-动漫秀场,http://dassby.qqff.top:99/live/动漫秀场/index.m3u8,重复URL
-动漫秀场,https://stream1.freetv.fun/c1a9c0728c4a8d7636c7de8d4f69f3abdc906231ea7f7e72d59433843738617f.m3u8,重复URL
 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8,重复URL
 哈哈炫动,http://38.75.136.137:98/gslb/dsdqpub/xdkthd.m3u8?auth=testpub,重复URL
-哈哈炫动,https://stream1.freetv.fun/ha-ha-xuan-dong-1.m3u8,重复URL
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8,重复URL
 第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8,重复URL
 第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8,重复URL
@@ -165,7 +161,6 @@ VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlis
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4,重复URL
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de,重复URL
 广东民生,http://183.11.239.36:808/hls/18/index.m3u8,重复URL
-广州影视,http://r.jdshipin.com/TcKr2,重复URL
 广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3,重复URL
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8,重复URL
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487,重复URL
@@ -1490,6 +1485,7 @@ NewTV超级电视剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225765/ind
 [SD]channel s,https://t.freetv.fun/live/channel-s-1.m3u8,重复URL
 [BD]novyi channel,https://t.freetv.fun/live/novyi-channel.m3u8,重复URL
 [SD]knesset channel,https://t.freetv.fun/live/knesset-channel.m3u8,重复URL
+[BD]chc动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-12.m3u8,重复URL
 [BD]chc动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-1.m3u8,重复URL
 [BD]chc动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-10.m3u8,重复URL
 [BD]chc家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-1.m3u8,重复URL
