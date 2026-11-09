@@ -83,6 +83,7 @@ CCTV17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8,重复URL
 CCTV8K,http://192.151.150.154/live/cctv8k.m3u8,重复URL
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8,重复URL
+深圳卫视,http://gmxw.7766.org:808/hls/45/index.m3u8,重复URL
 厦门卫视,http://stream.jinjiang.tv/1/sd/live.m3u8?zfud,重复URL
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk,重复URL
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk,重复URL
@@ -103,6 +104,7 @@ CCTV8K,http://192.151.150.154/live/cctv8k.m3u8,重复URL
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk,重复URL
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk,重复URL
 安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8,重复URL
+黑龙江卫视,http://61.136.172.236:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0,重复URL
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=81a015dbecf3031d7d847b7a9b059f67&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk,重复URL
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=3e7340acf8869ac1c7dad1bb836dcd35&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk,重复URL
 内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8,重复URL
@@ -113,6 +115,7 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv,重复URL
 纬来体育台,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8,重复URL
 靖天戏剧台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058,重复URL
 靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055,重复URL
+精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8,重复URL
 精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8,重复URL
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8,重复URL
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8,重复URL
@@ -221,8 +224,10 @@ VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlis
 浙江公共新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8,重复URL
 浙江公共新闻,http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8,重复URL
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8,重复URL
+浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8,重复URL
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8,重复URL
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8,重复URL
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?,重复URL
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8,重复URL
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8,重复URL
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?,重复URL
@@ -237,9 +242,11 @@ VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlis
 浙江数码时代,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8,重复URL
 浙江数码时代,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed,重复URL
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/720p.m3u8,重复URL
+浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8,重复URL
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?,重复URL
 浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8,重复URL
 浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8,重复URL
+浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8,重复URL
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8,重复URL
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?,重复URL
 浙江生活,http://ls.qingting.fm/live/1099.m3u8,重复URL
@@ -252,6 +259,7 @@ VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlis
 浙江遂昌,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8,重复URL
 浙江钱江,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8,重复URL
 浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8,重复URL
+浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8,重复URL
 浙江钱江,http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8,重复URL
 浙江钱江,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8,重复URL
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8,重复URL
@@ -485,7 +493,6 @@ CCTV-4,http://173.208.212.130:8181/1080p/cctv4.m3u8,重复URL
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub,重复URL
 CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub,重复URL
 CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009,重复URL
-CCTV-5+,http://223.78.65.165:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0,重复URL
 CCTV-5+,http://120.76.248.139/live/bfgd/4200000246.m3u8,重复URL
 CCTV-6,http://69.30.245.50/live/cctv6.m3u8,重复URL
 CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8,重复URL
